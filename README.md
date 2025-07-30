@@ -11,31 +11,9 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and aspi
 - 🔭 Currently working on:
   - 📽️Video conferencing App (Zoom)
 
----
-
-### 🌱 I'm Currently Learning
-- ✨ Advanced AI & LLMs (LangChain, RAG, OpenAI APIs)
-- 🧠 System Design & Backend Scalability
-- 🧰 DevOps & CI/CD pipelines
-
----
-
-### 🤝 I'm Open to Collaborate On
-- 🚀 Early-stage startup ideas (esp. in AI, SaaS, or EdTech)
-- 🧩 Innovative full-stack projects
-- 🛠️ Open source tools & community-driven software
-
----
-
-### ⚡ Fun Facts
-- 🧘 I love meditation & personal development
-- 🎬 Big fan of cinema and storytelling
-- 🏋️‍♂️ Fitness enthusiast chasing 8–10% body fat
-- 📚 Always learning something new — be it tech, business, or psychology
-
----
-
 Thanks for visiting! Feel free to check out my pinned projects below 👇 and let's connect!
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@anishghanwat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anish-ghanwat-369207284) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AnishGhanw41145) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anishghanwat.work@gmail.com) 
