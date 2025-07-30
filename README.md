@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and aspi
 ### 🌱 I'm Currently Learning
 - ✨ Advanced AI & LLMs (LangChain, RAG, OpenAI APIs)
 - 🧠 System Design & Backend Scalability
-- 📈 Growth & Marketing for SaaS
 - 🧰 DevOps & CI/CD pipelines
 
 ---
@@ -25,14 +24,6 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and aspi
 - 🚀 Early-stage startup ideas (esp. in AI, SaaS, or EdTech)
 - 🧩 Innovative full-stack projects
 - 🛠️ Open source tools & community-driven software
-
----
-
-### 📫 Reach Me At
-- 📧 Email: [anishkanwat@gmail.com](mailto:anishkanwat@gmail.com)
-- 🌐 Portfolio: [anishkanwat.in](https://anishkanwat.in)
-- 💼 LinkedIn: [linkedin.com/in/anishkanwat](https://linkedin.com/in/anishkanwat)
-- 🐦 Twitter: [@anishkanwat](https://twitter.com/anishkanwat)
 
 ---
 
